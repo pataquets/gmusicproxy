@@ -3,6 +3,7 @@
 *"Let's stream Google Play Music using any media-player"*
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/gmusicproxy/gmusicproxy) ![Python Versions](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue)
+[![Docker pulls](https://img.shields.io/docker/pulls/gmusicproxy/gmusicproxy)](https://hub.docker.com/r/gmusicproxy/gmusicproxy)
 
 contributors:
 - [Mario Di Raimondo](mailto:mario.diraimondo@gmail.com)
